@@ -1,0 +1,26 @@
+$primary-color: #89B6A5;
+
+@import 'animate.css';
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/HelveticaNeueMedium.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'NunitoSans';
+    src: url('./assets/fonts/NunitoSans-Regular.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./assets/fonts/Montserrat-Regular.ttf') format('ttf');
+}
+
+input,
+textarea {
+    font-family: 'Helvetica Neue';
+}
+
+
+// #4C3B4D #82968C #6A706E #F8E5EE
